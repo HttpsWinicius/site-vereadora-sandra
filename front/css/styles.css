@@ -177,13 +177,13 @@ sup {
 }
 
 a {
-    color: #635775;
+    color: #fed136;
     text-decoration: none;
     background-color: transparent;
 }
 
 a:hover {
-    color: #635775;
+    color: #e6b301;
     text-decoration: underline;
 }
 
@@ -4654,37 +4654,37 @@ input[type=button].btn-block {
 }
 
 .navbar-light .navbar-brand {
-    color: #3C2D53;
+    color:#2DA833;
 }
 
 .navbar-light .navbar-brand:hover,
 .navbar-light .navbar-brand:focus {
-    color: #3C2D53;
+    color: #2DA833;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #3C2D53;
+    color:#2DA833;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link:focus {
-    color: #3C2D53;
+    color: #2DA833;
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
-    color: #3C2D53;
+    color: #2DA833;
 }
 
 .navbar-light .navbar-nav .show>.nav-link,
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-    color: #3C2D53;
+    color: #2DA833;
 }
 
 .navbar-light .navbar-toggler {
-    color: #3C2D53;
-    border-color: #3C2D53;
+    color: #2DA833;
+    border-color: #2DA833;
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -10189,7 +10189,7 @@ img::-moz-selection {
 #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #3C2D53;
+    background-color: #2DA833;
 }
 
 #mainNav .navbar-toggler {
@@ -10245,7 +10245,7 @@ img::-moz-selection {
     #mainNav.navbar-shrink {
         padding-top: 1rem;
         padding-bottom: 1rem;
-        background-color: #3C2D53;
+        background-color: #2DA833;
     }
     #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
